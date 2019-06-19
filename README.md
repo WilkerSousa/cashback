@@ -15,4 +15,4 @@ Crie as seguintes variaveis de ambiente para evitarem erro de inicio da aplicaç
 Baixem o repositorio e o executem no Visual Studio Code
 
 ### Step 3 ###
-No console com a solution aberta executem o comendo NPM START e a aplicação iniciará.
+No console com a solution aberta e estando no diretório raiz da solution, executem o comendo NPM START e a aplicação iniciará.
